@@ -4,3 +4,5 @@
 
 layout: home
 ---
+
+<h1>Welcome!</h1>
