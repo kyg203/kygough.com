@@ -3,13 +3,13 @@ layout: post
 title: "Opening Up About Open-Source"
 date: 2021-08-31
 ---
-Last weekend, I began my week-long journey of open sourcing my Windows 11 machine and my OnePlus 8 Android smartphone. Well, I tried at least... I say I tried because I barely lasted 24 hours, even after I found all of the apps and programs I needed. It just wasn’t a viable option for someone that has not got a lot of spare time, is a full time student and likes to socialize. Now, I did stumble upon some apps that I do find genuinely useful and now continue to use, but I’m no longer going full-on open source. However, I am open to continue using certain open source projects on my devices and continue to use custom ROMs and Linux on the respective devices. I’m currently running DerpFest 11 on my OnePlus 8 and Zorin OS 16 on my laptop.
+Last weekend, I began my week-long journey of open sourcing my Windows 11 laptop and my OnePlus 8 Android smartphone. Well, I tried at least... I say tried because I barely lasted 24 hours, even after finding plenty of alternative apps and programs required for the switch. Unfortunately, it just wasn’t a viable option for someone that does not have a lot of spare time. I'm a full time student, so I really can't afford for things to just not work as expected or fail on me. Plus, some programs I needed for certain specialized classes weren't available for Linux and had no good alternatives that would do the job. Some of these apps did a great job of replacing my current closed source counterparts, so much so that I have fully replaced them. However these were too few and far between so I had to switch back to Windows pretty quickly. However, I am open to continue using certain open source projects on my devices and continue to use custom ROMs and Linux on the respective devices. For this project, I will be using Lineage OS on my OnePlus 8 and Zorin OS on my laptop.
 
 ![Questioning Android meticulously deciding if they should go the open source or proprietary route](/images/open-source-journey.png)
 
 ### Why Go Open Source?
 
-The number one reason for many individuals and companies to open source their projects is because many more developers around the world can see it and thus fix any bugs, improve the code, and adapt the code to their liking. I have seen so many local-music apps with the same base code, it’s unreal, but it allows each of those separate apps to be stable, secure, and up to date. The user can decide on their own which one to use based on preference or unique features to one platform compared to the other. It’s also very helpful for the economy too by fueling people with new ideas and because it’s way more efficient than having a small group of developers at a company work on a project themselves. You’d be surprised to know that even Apple and Microsoft have open sourced some of their work, such as Swift and Microsoft's own code base.
+The number one reason for many individuals and companies to open source their projects is because many more developers around the world can see it and thus fix any bugs, improve the code, and adapt the code to their liking. I have seen so many local-music Android apps with the same base code, it’s unreal, but it allows each of those separate apps to be stable, secure, and up to date. The user can decide on their own which one to use based on preference or unique features to one platform compared to the other. It’s also very helpful for the economy too by fueling people with new ideas and because it’s way more efficient than having a small group of developers at a company work on a project themselves. You’d be surprised to know that even Apple and Microsoft have open sourced some of their work, such as Swift and Windows Calculator and even Microsoft's own code base.
 
 ![Google Keep versus Joplin](/images/keep-arrow-joplin.png)
 
@@ -43,9 +43,10 @@ I ended up installing all of these apps onto my device! I did go a step further 
 | Passwords    | Google Passwords                | KeyPass                 |
 | Social Media | Instagram / Twitter / Facebook  | Friendly / Infinity     |
 | VPN          | X-VPN                           | ProtonVPN               |
+| Phone Sync   | MS Your Phone                   | Zorin Connect           |
 | ------------ | ------------------------------- | ----------------------- |
 
-On Linux, I just used the default apps that come with Ubuntu 21.04, along with some of the apps listed above. Joplin and ProtonVPN are two examples of applications that worked on both Linux and Android.
+On Linux, I just used the default apps that come with Zorin OS, along with some of the apps listed above. Joplin and ProtonVPN are two examples of applications that worked on both Linux and Android.
 
 ### What Went Wrong?
 
