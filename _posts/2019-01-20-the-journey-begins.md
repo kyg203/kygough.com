@@ -3,6 +3,8 @@ layout: post
 title: The Journey Begins
 ---
 
+`UPDATED: 2022-11-08 To better reflect the current content, fix formatting errors and improve the wording of some sentences! Carry on!`
+
 Hey there! I am Ky; I'm a beginner freelance writer, blogger and photographer and I love talking about technology, music, and photographs. If you have already seen my about page, I'm sure you know that I do more than that but this is just about my blogging and journalism. I thought of some questions you may ask about my blog and what I'll primarily be writing about, so I combined them into a small Q&A to hopefully give you a better idea of topics. I am not just limited to these topics, you can suggest any you like, but this will be what the blog will primarily about. Take a look below!
 
 1. What are you going to write about?
