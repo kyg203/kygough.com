@@ -1,0 +1,73 @@
+/*
+ *   Add styles that will apply to every page on the website
+ */
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+body {
+	background-color: white;
+	color: black;
+	margin: 0;
+	overflow-x: hidden;
+	font-family: 'Roboto', sans-serif;
+ }
+
+#social-bar {
+	background-color: white;
+	width: 100%;
+	height: 35px;
+ }
+ 
+.social-container {
+	padding-top: 4px;
+	width: 170px;
+	height: 35px;
+	margin: auto;
+}
+
+#icon {
+	width: 25px;
+	height: 25px;
+}
+
+#nav {
+	background-color: #ededed;
+	padding: 15px 30px;
+	width: 100%;
+	height: 80px;
+ }
+
+#nav-profile {
+	height: 75px;
+	width: 75px;
+	border-radius: 50%;
+	margin-top: 5px;
+	float: left;
+ }
+ 
+#name {
+	float: left;
+	font-size: 2vw;
+	margin-top: 25px;
+	margin-left: 30px;
+	color: black;
+	font-family: 'Roboto', sans-serif;
+	font-weight: bold;
+	padding-right: 150px;
+}
+
+#nav a {
+	text-decoration: none;
+	font-family: 'Roboto', sans-serif;
+	font-weight: 900;
+	color: black;
+	padding: 35px 15px;
+	float: left;
+	text-align: center;
+ }
+ 
+#nav a:hover {
+	background-color: red;
+	border-radius: 15px;
+	color: white;
+ }
