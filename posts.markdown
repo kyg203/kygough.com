@@ -5,4 +5,4 @@
 layout: home
 ---
 
-<h1>Welcome!</h1>
+Read below for the latest posts. Tags and sections coming soon!
