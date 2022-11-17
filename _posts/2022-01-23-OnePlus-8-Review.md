@@ -66,7 +66,12 @@ For me, the camera experience hasn’t exactly been that great on the OnePlus 8.
 
 The combination of OnePlus taking longer about pushing updates and T-Mobile delaying updates for their carrier settings caused pretty slow software support for the 8. Even on global firmware, I received about one update every three months. Custom ROM support is wide in reach, but they all have their flaws. The most stable ROM I used is Pixel Experience, however I tested out multiple other ROMs to see which is best. I have not been able to test the new Paranoid Android Sapphire, based on Android 12, but I did test the alpha builds based on Android 11 (which weren’t so great).
 
-[OnePlus 8 - Custom Firmware - XDA](https://forum.xda-developers.com/f/oneplus-8-roms-kernels-recoveries-other-devel.10357/){:target="_blank"}
+#### Oxygen OS
+- Android 13
+- Oxygen OS 13
+- Stable
+- [OnePlus Community Thread](https://community.oneplus.com/thread/1200191691983159301){:target="_blank"}
+- Notes: Obviously Oxygen OS will provide the most stable software available for this device and will bring the latest features from OnePlus. There may be some customizations that are missing in comparison to the custom ROM community, however, there's robust support for the currently implement features and official support from OnePlus. 
 
 #### Lineage OS
 - Android 12L
@@ -94,33 +99,41 @@ The combination of OnePlus taking longer about pushing updates and T-Mobile dela
 
 #### DerpFest
 - Android 13
-- DerpFest  
-- Beta Community Build
+- DerpFest T
+- Alpha Community Build
 - [XDA Page](https://forum.xda-developers.com/t/rom-13-0-alpha-derpfest-t-for-oneplus-8-community-instantnoodle.4324397/){:target="_blank"}
 - Notes: Customizable and pretty stable, even had good battery life. Had issues with two-button navigation and, since it was a beta, did not have OTA updates. You had to manually flash new updates to the device, but it can be done with a dirty flash at least.
 
-Havoc OS - Relatively Stable - One of the most customizable ROMs, provided the best experience, in my opinion, and was my primary daily driver. It did have some fingerprint scanner issues, but they weren’t too bothersome. Battery life could’ve been a bit better, but was still do-able.
+#### Havoc OS
+- Android 11
+- Havoc OS 4.19 LTS
+- Stable
+- [Havoc OS website](https://havoc-os.com/device#instantnoodle){:target="_blank"} 
+- Notes: One of the most customizable ROMs, provided the best experience, in my opinion, and was my primary daily driver. It did have some fingerprint scanner issues, but they weren’t too bothersome. Battery life could’ve been a bit better, but was still do-able.
 
-crDroid - Stable - crDroid was pretty stable and had enough customizations to suffice. There wasn’t anything that stood out for me for this ROM, but it worked and that’s all that matters.
+#### crDroid
+- Android 11 | 12L
+- crDroid 7 | 8.4
+- Stable
+- [crDroid Website](https://crdroid.net/instantnoodle/8){:target="_blank"}
+- [XDA Page](https://forum.xda-developers.com/t/rom-official-instantnoodle-12-1-crdroid-v8-4.4394379/){:target="_blank"} 
+- Notes: crDroid was pretty stable and had enough customizations to suffice. There wasn’t anything that stood out for me for this ROM, but it worked and that’s all that matters.
 
-Global Oxygen OS - Stable - I’m including this version of Oxygen OS because it allows for stability and official OnePlus software. This was the only OS that actually worked with my OnePlus Buds Pro, popping up when they connect and are available over Bluetooth. latest version of stable Oxygen OS is now Oxygen OS 13 based on Android 13.
+#### Fluid ROM 
+- Android 11
+- Fluid v1.6 Rum 
+- Discontinued (as of June 16th, 2021) 
+- Notes: The ROM itself is beta quality, however it was missing a few vital features. The developers and maintainers have discontinued producing builds for this particular device and you are better off choosing a different ROM.
 
-Jaguar ROM - Not very stable - Jaguar ROM was probably the worst one I tried. It was highly customizable, but was not stable enough to actually customize. It has been a while since I last used the ROM, so maybe check out the latest update to see if it has improved. 
+#### Droid On Time OS (Dot OS)
+- Android 12L
+- Dot OS 5.2 GSI
+- Stable
+- [Dot OS website](https://droidontime.com/devices/arm64){:target="_blank"}
+- Notes: I haven't tested this GSI build since Dot OS 5.1, however 5.1 would not correctly install no matter what I did and caused modem issues. This rendered the device to WiFi usage only. The operating system itself looks amazing though, so hopefully one day the developers will bring a dedicated build for the OnePlus 8, as they have with the OnePlus 8T.
 
-ShapeShift OS - Somewhat stable - ShapeShift was my favourite ROM for a short time, but with every update the stability kind of dropped and updates became fewer and fewer. I liked the custom settings app, but it just wasn’t quite stable enough for me to use. There has not been an update since August 8th for the device, so until a new version is uploaded I would stick with a different ROM. 
+Checkout some of the newer firmware builds and custom ROMs at the XDA page for the OnePlus 8 below. Not all of these ROMs have been tested by me since I no longer carry the device, but feel free to test them yourself and report back within the forums.
+[OnePlus 8 - Custom Firmware - XDA](https://forum.xda-developers.com/f/oneplus-8-roms-kernels-recoveries-other-devel.10357/){:target="_blank"}
 
-Evolution X - I have not used this ROM in too long to comment.
-
-AOSP Extended ROM - I have not used this ROM at all and cannot comment. It is marked unofficial though. 
-
-MSM Xtended-XR - Not Stable - The ROM download site is not available at the moment, but the last time I used the ROM, it was not stable enough to daily drive.
-
-Fluid ROM 1.6 - Discontinued - Do not use this ROM, it has been discontinued.
-
-DotOS and Android 12 GSI - Somewhat Stable, missing features - You cannot send or receive texts or calls on this GSI. Same as the Android 12 GSI.
-
-Hycon OS - Has not been updated, would recommend not using. Was not very stable.
-
-CarbonROM 9 - Have not used, decline to comment. 
 
 I started using the device right as OnePlus was beginning to roll out the Android 11 update to global 8 and 8 Pro users, so I was stuck with Android 10 for about a week before the update pinged my device. I had to wait a bit longer because of the T-Mobile carrier software, which gets rid of the default Oxygen OS update method. It has performed pretty well with only a few issues to share regarding usage which were brought about with Android 11. As soon as 5G turns on, the device gets really hot. Recents sometimes lags when switching out of apps and causes you to stay in the app until you switch the display off and on again. The left-most homescreen ditches the Shelf for a T-Mobile branded tab as well as Google Discover tab. My last complaint: the cameras are quite bad. If you can find this phone for $399 or less, which you can from OnePlus themselves, this phone is a solid option despite the cameras. Otherwise, you could do a little better with the Pixel 5a or Pixel 6a for around the same price but with Google's default skin and AI smarts to bring high quality pictues and a longer software support. 
