@@ -112,8 +112,8 @@ The combination of OnePlus taking longer about pushing updates and T-Mobile dela
 - Notes: One of the most customizable ROMs, provided the best experience, in my opinion, and was my primary daily driver. It did have some fingerprint scanner issues, but they weren’t too bothersome. Battery life could’ve been a bit better, but was still do-able.
 
 #### crDroid
-- Android 11 | 12L
-- crDroid 7 | 8.4
+- Android 11 & 12L
+- crDroid 7 or 8.4
 - Stable
 - [crDroid Website](https://crdroid.net/instantnoodle/8){:target="_blank"}
 - [XDA Page](https://forum.xda-developers.com/t/rom-official-instantnoodle-12-1-crdroid-v8-4.4394379/){:target="_blank"} 
@@ -135,5 +135,6 @@ The combination of OnePlus taking longer about pushing updates and T-Mobile dela
 Checkout some of the newer firmware builds and custom ROMs at the XDA page for the OnePlus 8 below. Not all of these ROMs have been tested by me since I no longer carry the device, but feel free to test them yourself and report back within the forums.
 [OnePlus 8 - Custom Firmware - XDA](https://forum.xda-developers.com/f/oneplus-8-roms-kernels-recoveries-other-devel.10357/){:target="_blank"}
 
+## Final Verdict
 
 I started using the device right as OnePlus was beginning to roll out the Android 11 update to global 8 and 8 Pro users, so I was stuck with Android 10 for about a week before the update pinged my device. I had to wait a bit longer because of the T-Mobile carrier software, which gets rid of the default Oxygen OS update method. It has performed pretty well with only a few issues to share regarding usage which were brought about with Android 11. As soon as 5G turns on, the device gets really hot. Recents sometimes lags when switching out of apps and causes you to stay in the app until you switch the display off and on again. The left-most homescreen ditches the Shelf for a T-Mobile branded tab as well as Google Discover tab. My last complaint: the cameras are quite bad. If you can find this phone for $399 or less, which you can from OnePlus themselves, this phone is a solid option despite the cameras. Otherwise, you could do a little better with the Pixel 5a or Pixel 6a for around the same price but with Google's default skin and AI smarts to bring high quality pictues and a longer software support. 
