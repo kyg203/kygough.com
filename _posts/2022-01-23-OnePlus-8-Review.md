@@ -56,11 +56,19 @@ The combination of OnePlus taking longer about pushing updates and T-Mobile dela
 
 [OnePlus 8 - Custom Firmware - XDA](https://forum.xda-developers.com/f/oneplus-8-roms-kernels-recoveries-other-devel.10357/){:target="_blank"}
 
-Lineage OS - Stable - Missing key features such as OnePlus system applications, proprietary vendor blobs for the camera, and face unlock. Obviously Lineage OS purposefully exclude these to keep the ROM open source, so it’s more of a feature for the ROM rather than a flaw or issue.
+#### Lineage OS
+- Android 12L
+- Lineage OS 19.1
+- Stable
+- [XDA Page](https://forum.xda-developers.com/t/rom-official-instantnoodle-12-lineageos-19.4484561/){:target="_blank"}
+- [Lineage OS website](https://wiki.lineageos.org/devices/instantnoodle/){:target="_blank"}
+- Notes: Missing key features such as OnePlus system applications, proprietary vendor blobs for the camera, and face unlock. Obviously Lineage OS purposefully exclude these to keep the ROM open source, so it’s more of a feature for the ROM rather than a flaw or issue.
 
 #### Pixel Experience 
 - Android 13 
-- Stable 
+- Stable
+- [XDA Page](https://forum.xda-developers.com/t/rom-13-instantnoodle-pixelexperience-aosp.4512815/){:target="_blank"}
+- [PixelExperience website](https://wiki.pixelexperience.org/devices/instantnoodle/){:target="_blank"}
 - Notes: Very few updates, but don’t try to fix anything that’s not broken, eh? It provided a few customizations, but not quite enough to satisfy my needs. At least I had unlimited Google Photos storage?
 
 AICP - Relatively Stable - Had a few bugs, but otherwise had the same inconveniences as Lineage OS. 
