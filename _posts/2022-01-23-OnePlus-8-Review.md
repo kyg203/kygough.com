@@ -50,12 +50,12 @@ Once you reach the homescreen, the experience is pretty much learn as you go. Al
 
 For me, the camera experience hasn’t exactly been that great on the OnePlus 8. Not only is it less versatile than the 7T and the 8 Pro, but its camera’s feel worse the 7T’s. Even though the last generation used the ultra-wide lens for macro shots, it could still beat the 8 in most macro mode shots. I think the only way the camera’s have improved is with it’s layout on the back of the phone. The coin look didn’t pique everyone’s interest, but at least it stuck out as different. The selfie camera feels the same, but obviously still lacks in 4K capability and any gimmicks for it, like Samsung’s slo-fie videos. Portrait mode still isn’t the best on any of the lenses, even with a GCam mod, but night mode shots come out pretty well. Speaking of GCam, the mod works pretty well for regular photos and video shots, but on some versions and configurations, night mode shots and portrait shots end up creating weird purple and pink tints all over which ruin the shot and you can’t use the auxiliary lenses with some versions of the mod. If you pay attention to every fine detail of a photo, then it will be worth the hassle to set up the app. Otherwise, you might as well stick with the default. 
 
-[#](/images/oneplus-8-sample-1.jpg)
-[#](/images/oneplus-8-sample-2.jpg)
-[#](/images/oneplus-8-sample-3.jpg)
-[#](/images/oneplus-8-sample-4.jpg)
-[#](/images/oneplus-8-sample-5.jpg)
-[#](/images/oneplus-8-sample-6.jpg)
+![#](/images/oneplus-8-sample-1.jpg)
+![#](/images/oneplus-8-sample-2.jpg)
+![#](/images/oneplus-8-sample-3.jpg)
+![#](/images/oneplus-8-sample-4.jpg)
+![#](/images/oneplus-8-sample-5.jpg)
+![#](/images/oneplus-8-sample-6.jpg)
 
 ## Software Support
 
