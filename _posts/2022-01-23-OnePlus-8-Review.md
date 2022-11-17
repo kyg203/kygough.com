@@ -53,7 +53,7 @@ For me, the camera experience hasn’t exactly been that great on the OnePlus 8.
 
 The combination of OnePlus taking longer about pushing updates and T-Mobile delaying updates for their carrier settings caused pretty slow software support for the 8. Even on global firmware, I received about one update every three months. Custom ROM support is wide in reach, but they all have their flaws. The most stable ROM I used is Pixel Experience, however I tested out multiple other ROMs to see which is best. I have not been able to test the new Paranoid Android Sapphire, based on Android 12, but I did test the alpha builds based on Android 11 (which weren’t so great).
 
-
+[OnePlus 8 - Custom Firmware - XDA](https://forum.xda-developers.com/f/oneplus-8-roms-kernels-recoveries-other-devel.10357/)
 
 Lineage OS - Stable - Missing key features such as OnePlus system applications, proprietary vendor blobs for the camera, and face unlock. Obviously Lineage OS purposefully exclude these to keep the ROM open source, so it’s more of a feature for the ROM rather than a flaw or issue.
 
