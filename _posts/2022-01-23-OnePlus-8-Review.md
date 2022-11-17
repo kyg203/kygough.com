@@ -3,6 +3,7 @@ layout: post
 title: "OnePlus 8 Review: So Close To Perfect!"
 date: 2022-01-23
 ---
+![OnePlus 8 Interstellar Glow model](/images/oneplus-8.jpg)
 
 `TL:DR The OnePlus 8 is an amazing mid-range device that can compete with the likes of the iPhone 11 on just about everything. The camera quality and lack of wireless charging are the only downfalls, but they aren't major issues that everyone will notice. It may not be worth the upgrade from a OnePlus 7 Pro, but you can easily snag this device for $400 or less. It just received official stable Oxygen OS 13 based on Android 13 too, so be sure to check out that update online!`
 
