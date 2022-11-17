@@ -78,14 +78,26 @@ The combination of OnePlus taking longer about pushing updates and T-Mobile dela
 
 #### Pixel Experience 
 - Android 13 
+- Android 13 and Android 13 Plus builds
 - Stable
 - [XDA Page](https://forum.xda-developers.com/t/rom-13-instantnoodle-pixelexperience-aosp.4512815/){:target="_blank"}
 - [PixelExperience website](https://wiki.pixelexperience.org/devices/instantnoodle/){:target="_blank"}
 - Notes: Very few updates, but don’t try to fix anything that’s not broken, eh? It provided a few customizations, but not quite enough to satisfy my needs. At least I had unlimited Google Photos storage?
 
-AICP - Relatively Stable - Had a few bugs, but otherwise had the same inconveniences as Lineage OS. 
+#### Android Ice Cold Project
+- Android 12L
+- AICP v17.1
+- Relatively Stable
+- [XDA Page](https://forum.xda-developers.com/t/rom-12-1-official-aicp-17-1-oos12-instantnoodle.4465013/){:target="_blank"}
+- [AICP website](https://dwnld.aicp-rom.com/){:target="_blank"}
+- Notes: Had a few bugs, but otherwise had the same inconveniences as Lineage OS with missing functionality and missing proprietary apps. 
 
-DerpFest Beta - Relatively Stable - Customizable and pretty stable, even had good battery life. Had issues with two-button navigation and, since it was a beta, did not have OTA updates. You had to manually flash new updates to the device, but it can be done with a dirty flash at least.
+#### DerpFest
+- Android 13
+- DerpFest  
+- Beta Community Build
+- [XDA Page](https://forum.xda-developers.com/t/rom-13-0-alpha-derpfest-t-for-oneplus-8-community-instantnoodle.4324397/){:target="_blank"}
+- Notes: Customizable and pretty stable, even had good battery life. Had issues with two-button navigation and, since it was a beta, did not have OTA updates. You had to manually flash new updates to the device, but it can be done with a dirty flash at least.
 
 Havoc OS - Relatively Stable - One of the most customizable ROMs, provided the best experience, in my opinion, and was my primary daily driver. It did have some fingerprint scanner issues, but they weren’t too bothersome. Battery life could’ve been a bit better, but was still do-able.
 
