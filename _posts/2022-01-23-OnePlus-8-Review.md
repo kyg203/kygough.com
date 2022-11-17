@@ -57,7 +57,7 @@ The combination of OnePlus taking longer about pushing updates and T-Mobile dela
 
 Lineage OS - Stable - Missing key features such as OnePlus system applications, proprietary vendor blobs for the camera, and face unlock. Obviously Lineage OS purposefully exclude these to keep the ROM open source, so it’s more of a feature for the ROM rather than a flaw or issue.
 
-###### Pixel Experience 
+#### Pixel Experience 
 - Android 13 
 - Stable 
 - Notes: Very few updates, but don’t try to fix anything that’s not broken, eh? It provided a few customizations, but not quite enough to satisfy my needs. At least I had unlimited Google Photos storage?
