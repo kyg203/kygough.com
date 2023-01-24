@@ -62,4 +62,31 @@ Comparing to the last generation, the Moto G23 brings few improvements to the al
 
 The Moto G13 isn't necessarily a direct successor to any particular model, as there was no G11 or G12 handset. However, it could be seen as a duo successor situation, truly going for quantity over quality just like their camera systems. A 'Lite' version of the older siblings, if you will. This pattern is similar to the higher end siblings too, with the G73 being the model and the G53 being the 'Lite'. I Can see why Motorola would want to try this approach with these hadnsets, however the execution could defintiely be better. It's a good thing this was being tested with the lower end G-series rather than the more mid-range, flagship-killer focused Edge devices.
 
+### Moto E13
+
+![Motorola E13 handset](/images/moto-e13.jpg)
+
+Last, but definitely not least, the Motorola Moto E13. This device is at the bottom of the bracket, being the most budget of the budget series. Lets see what Motorola decided to pack within this low-priced smartphone. 
+
+| Specification | E13                                      |
+|---------------|------------------------------------------|
+| Display       | 6.5" LCD                                 |
+| Resolution    | 720x1600                                 |
+| Refresh Rate  | 60 Hz                                    |
+| Processor     | Unisoc T606                              |
+| Memory        | 2/64  4/64                               |
+| Battery       | 5,000 mAh 10W                            |
+| Rear Cameras  | 13MP wide                                |
+| Video         | 1080p30                                  |
+| Selfie Camera | 5MP 1080p30                              |
+| Software      | Android 13 Go                            |
+| Extras        | MicroSD, Waterdrop notch                 |
+| Pricing       | €120                                     |
+| Colours       | Cosmic Black, Aurora Green, Creamy White |
+
+This handset really shows just how budget it is through the use of the Unisoc processor, however this will definitely be fine considering the target market. This phone will be for anyone that just needs it to work, just something to get by with for calling and texting, maybe some basic web surfing. The processor really won't handle much else.
+
+____________________________________
+
+
 Whether we see these devices at all in the United States is anyone's guess, however they will be avilable in Europe, some of Asia, and Latin America starting in a few weeks.
