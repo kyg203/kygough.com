@@ -14,20 +14,21 @@ Motorola are the king of budget friendly mobile handsets, especially here in the
 
 The higher end brothers of the G series, this years GX3, devices feature a host of similar specs and follow similar designs to each other. They definitely shake up a few specs compared to last generations GX2 devices, replacing trade-offs with different features compared to last year, however they chose a lot of areas to trade-off. While the processors are newert his year, they are only small upgrades to their previous generations. However, they are more capable than the generation prior and bring sub-6GHz 5G to the higher end G-line.
 
-| Specification | Moto G73                | Moto G53                        |
-|---------------|-------------------------|---------------------------------|
-| Display       | 6.5" LCD IPS            | 6.5" LCD IPS                    |
-| Resolution    | 1080x2400               | 720x1600                        |
-| Refresh Rate  | 120 Hz                  | 120 Hz                          |
-| Processor     | Dimensity 930 5G        | Snapdragon 480+ 5G              |
-| Memory        | 8 GB  256 GB            | 4/64   4/6/8/128                |
-| Battery       | 5,000 mAh 30W           | 5,000 mAh 10W (INTL) 18W (LATM) |
-| Rear Cameras  | 50MP + 8MP AF ultrawide | 50MP main 2MP macro             |
-| Video         | 1080p30/60              | 1080p30                         |
-| Selfie Cam    | 16MP 1080p30            | 8MP 1080p30                     |
-| Software      | Android 13 MyUX         | Android 13 MyUX                 |
-| Extras        | MicroSD slot            | MicroSD slot                    |
-| Pricing       | €300                    | €250 (4/128 model)              |
+| Specification | Moto G73                    | Moto G53                           |
+|---------------|-----------------------------|------------------------------------|
+| Display       | 6.5" LCD IPS                | 6.5" LCD IPS                       |
+| Resolution    | 1080x2400                   | 720x1600                           |
+| Refresh Rate  | 120 Hz                      | 120 Hz                             |
+| Processor     | Dimensity 930 5G            | Snapdragon 480+ 5G                 |
+| Memory        | 8 GB  256 GB                | 4/64   4/6/8/128                   |
+| Battery       | 5,000 mAh 30W               | 5,000 mAh 10W (INTL) 18W (LATM)    |
+| Rear Cameras  | 50MP + 8MP AF ultrawide     | 50MP main 2MP macro                |
+| Video         | 1080p30/60                  | 1080p30                            |
+| Selfie Cam    | 16MP 1080p30                | 8MP 1080p30                        |
+| Software      | Android 13 MyUX             | Android 13 MyUX                    |
+| Extras        | MicroSD slot, Fingerprint (side), water repellant design        
+| Pricing       | €300                        | €250 (4/128 model)                 |
+| Colours       | Midnight Blue, Lucent White | Pale Pink, Arctic Silver, Ink Blue |
 
 The biggest downgrade with the G73 especially has to be the LCD downgrade from the P-OLED display of the G72. OLED displays have much better colour reproduction and are generally better displays, however it is understandable since LCD's are both cheaper and battery efficient. Besides the display, the G72 had a more versatile triple camera system which was exchanged for a higher quality main lens and a similar (if not the same) ultrawide lens. I think this will be welcome upgrade despite the loss of the depth sensor and the higher resolution main lens because Motorola tend to have weak camera systems, however many manufacturers have seen success with 50 MP sensors.
 
