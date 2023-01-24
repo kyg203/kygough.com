@@ -40,7 +40,7 @@ Both devices feature the same water repellant design, side mounted fingerprint s
 
 ![Motorola Moto G23 and G13 devices](/images/moto-g23.jpg)
 
-The lower end devices of the series have the same duo design and spec choice with the higher end which is for the worse in this particular line-up. 
+The lower end devices of the series have the same duo design and spec choice just like the higher-end siblings, which is for the worse in this particular line-up. 
 
 | Specification | G23                                        | G13                                         |
 |---------------|--------------------------------------------|---------------------------------------------|
@@ -57,3 +57,7 @@ The lower end devices of the series have the same duo design and spec choice wit
 | Extras        | MicroSD slot, Dolby Atmos, Headphone Jack                                               ||
 | Pricing       | €230                                       | €180                                        |
 | Colours       | Matte Charcoal, Pearl White and Steel Blue | Matte Charcoal, Blue Lavender and Rose Gold |
+
+Comparing to the last generation, the Moto G23 brings few improvements to the alredy "alright" device. It features a better, faster Helio G85 compared to the Helio G37 chipset, alongside faster wired charging. The new 8 GB RAM configuration helps with power and multi-tasking too, which this variation of the device was not available on the G22. However, the G23 does lose it's fourth sensor, the 8MP ultrawide lens seen on the G73. 
+
+The Moto G13 isn't necessarily a direct successor to any particular model, as there was no G11 or G12 handset. However, it could be seen as a duo successor situation, truly going for quantity over quality just like their camera systems. 
