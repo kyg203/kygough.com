@@ -84,9 +84,9 @@ Last, but definitely not least, the Motorola Moto E13. This device is at the bot
 | Pricing       | €120                                     |
 | Colours       | Cosmic Black, Aurora Green, Creamy White |
 
-This handset really shows just how budget it is through the use of the Unisoc processor, however this will definitely be fine considering the target market. This phone will be for anyone that just needs it to work, just something to get by with for calling and texting, maybe some basic web surfing. The processor really won't handle much else.
+This handset really shows just how budget it is through the use of the Unisoc processor and the memory configuration, however this will definitely be fine considering the target market. This phone will be for anyone that just needs it to work, just something to get by with for calling and texting, maybe some basic web surfing. The processor really won't handle much else.
 
-____________________________________
+----------------
 
 
 Whether we see these devices at all in the United States is anyone's guess, however they will be avilable in Europe, some of Asia, and Latin America starting in a few weeks.
