@@ -34,8 +34,26 @@ The biggest downgrade with the G73 especially has to be the LCD downgrade from t
 
 The G53 sees a much more significant display downgrade, going from a 6.6" FHD 90 Hz AMOLED panel to a slightly smaller 120 Hz LCD HD panel. I persoanlly would prefer a 60 Hz standard refresh rate with a FHD resolution than this configuration Motorola have conjured. I guess someone somewhere values speed and fluidity over quality in low-end devices? Besides that, the G53 reduces fast charging from Moto's 30W TurboCharge tech to just 10W on the international model and 18W on the Latin American model. Neither models have U.S. availability currently, so we'll see if we get faster charging or a device at all.
 
-Both devices feature the same water repellant design, side mounted fingerprint sensors, face unlock, 5,000 mAh battery capacities, and hybrid micro SD card slots. They both also launch with Android 13 out of the box with MyUX onboard to tweak the system a little for the usual Motorola tricks. 
+Both devices feature the same water repellant design, side mounted fingerprint sensors, face unlock, 5,000 mAh battery capacities, stereo speakers with Dolby Atmos, and hybrid micro SD card slots. They both also launch with Android 13 out of the box with MyUX onboard to tweak the system a little for the usual Motorola tricks. 
 
 ### Moto G23 and G13
 
 ![Motorola Moto G23 and G13 devices](/images/moto-g23.jpg)
+
+The lower end devices of the series have the same duo design and spec choice with the higher end which is for the worse in this particular line-up. 
+
+| Specification | G23                                        | G13                                         |
+|---------------|--------------------------------------------|---------------------------------------------|
+| Display       | 6.5" LCD IPS                               | 6.5" LCD IPS                                |
+| Resolution    | 720x1600                                   | 720x1600                                    |
+| Refresh Rate  | 90 Hz                                      | 90 Hz                                       |
+| Processor     | Helio G85                                  | Helio G85                                   |
+| Memory        | 4/64  8/128                                | 4/64  4/128                                 |
+| Battery       | 5,000 mAh 30W                              | 5,000 mAh 20W                               |
+| Rear Cameras  | 50MP wide 5MP macro 2MP depth              | 50MP main 2MP macro 2MP depth               |
+| Video         | 1080p30                                    | 1080p30                                     |
+| Selfie Cam    | 16MP 1080p30                               | 8MP 1080p30                                 |
+| Software      | Android 13 MyUX                                                                          |
+| Extras        | MicroSD slot, Dolby Atmos, Headphone Jack                                                |
+| Pricing       | €230                                       | €180                                        |
+| Colours       | Matte Charcoal, Pearl White and Steel Blue | Matte Charcoal, Blue Lavender and Rose Gold |
