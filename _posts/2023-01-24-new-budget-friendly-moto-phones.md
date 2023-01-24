@@ -9,7 +9,6 @@ Motorola are the king of budget friendly mobile handsets, especially here in the
 
 The higher end brothers of the G series, this years GX3, devices feature a host of similar specs and follow similar designs to each other. They definitely shake up a few specs compared to last generations GX2 devices, replacing trade-offs with different features compared to last year, but I think they made some good choices this year on exactly where they should compromise. For example, providing great processors this year will bring much needed performance improvements in every aspect of the device. It even brings 5G support to the entire G line-up. 
 
-|               |                         |                                 |
 | Specification | Moto G73                | Moto G53                        |
 |---------------|-------------------------|---------------------------------|
 | Display       | 6.5" LCD IPS            | 6.5" LCD IPS                    |
@@ -23,4 +22,4 @@ The higher end brothers of the G series, this years GX3, devices feature a host 
 | Selfie Cam    | 16MP 1080p30            | 8MP 1080p30                     |
 | Software      | Android 13 MyUX         | Android 13 MyUX                 |
 | Extras        | MicroSD slot            | MicroSD slot                    |
-|---------------|-------------------------|---------------------------------|
+| Pricing       | €300                    | €250 (4/128 model)              |
