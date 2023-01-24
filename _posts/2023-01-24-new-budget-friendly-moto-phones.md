@@ -6,7 +6,7 @@ date: 2023-01-24
 
 ![Motorola logo on a red background](/images/moto.jpg)
 
-Motorola are the king of budget friendly mobile handsets, especially here in the United States. While their specs aren't appealing to the tech savvy, their affordable price and flagship-like design sure attract plenty of price-conciious buyers. Here's a bit of a dive into their newly released G73, G53, G23, G13 and E13 mobile handsets.
+Motorola are the king of budget friendly mobile handsets, especially here in the United States. While their specs aren't appealing to the tech savvy, their affordable price and flagship-like design sure attract plenty of price-concious buyers. Here's a bit of a dive into their newly released G73, G53, G23, G13 and E13 mobile handsets.
 
 ### Moto G73 and G53
 
