@@ -26,7 +26,7 @@ The higher end brothers of the G series, this years GX3, devices feature a host 
 | Video         | 1080p30/60                  | 1080p30                            |
 | Selfie Cam    | 16MP 1080p30                | 8MP 1080p30                        |
 | Software      | Android 13 MyUX             | Android 13 MyUX                    |
-| Extras        | MicroSD slot, Fingerprint (side), water repellant design        
+| Extras        | MicroSD slot, Fingerprint (side), water repellant design        ||
 | Pricing       | €300                        | €250 (4/128 model)                 |
 | Colours       | Midnight Blue, Lucent White | Pale Pink, Arctic Silver, Ink Blue |
 
@@ -53,7 +53,7 @@ The lower end devices of the series have the same duo design and spec choice wit
 | Rear Cameras  | 50MP wide 5MP macro 2MP depth              | 50MP main 2MP macro 2MP depth               |
 | Video         | 1080p30                                    | 1080p30                                     |
 | Selfie Cam    | 16MP 1080p30                               | 8MP 1080p30                                 |
-| Software      | Android 13 MyUX                                                                          |
-| Extras        | MicroSD slot, Dolby Atmos, Headphone Jack                                                |
+| Software      | Android 13 MyUX                                                                         ||
+| Extras        | MicroSD slot, Dolby Atmos, Headphone Jack                                               ||
 | Pricing       | €230                                       | €180                                        |
 | Colours       | Matte Charcoal, Pearl White and Steel Blue | Matte Charcoal, Blue Lavender and Rose Gold |
