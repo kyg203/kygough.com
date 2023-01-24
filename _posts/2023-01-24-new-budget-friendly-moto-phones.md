@@ -32,6 +32,10 @@ The higher end brothers of the G series, this years GX3, devices feature a host 
 
 The biggest downgrade with the G73 especially has to be the LCD downgrade from the P-OLED display of the G72. OLED displays have much better colour reproduction and are generally better displays, however it is understandable since LCD's are both cheaper and battery efficient. Besides the display, the G72 had a more versatile triple camera system which was exchanged for a higher quality main lens and a similar (if not the same) ultrawide lens. I think this will be welcome upgrade despite the loss of the depth sensor and the higher resolution main lens because Motorola tend to have weak camera systems, however many manufacturers have seen success with 50 MP sensors.
 
-The G53 sees a much more significant display downgrade, going from a 6.6" FHD 90 Hz AMOLED panel to a slightly smaller 120 Hz LCD HD panel. I persoanlly would prefer a 60 Hz standard refresh rate with a FHD resolution than this configuration Motorola have conjured. I guess someone somewhere values speed and fluidity over quality in low-end devices? Besides that, the G53 reduces fast charging from Moto's 30W TurboCharge tech to just 10W on the international model and 18W on the Latin American model. Neither models have U.S. availability currently, so we'll see if we get faster charging or a device at all. 
+The G53 sees a much more significant display downgrade, going from a 6.6" FHD 90 Hz AMOLED panel to a slightly smaller 120 Hz LCD HD panel. I persoanlly would prefer a 60 Hz standard refresh rate with a FHD resolution than this configuration Motorola have conjured. I guess someone somewhere values speed and fluidity over quality in low-end devices? Besides that, the G53 reduces fast charging from Moto's 30W TurboCharge tech to just 10W on the international model and 18W on the Latin American model. Neither models have U.S. availability currently, so we'll see if we get faster charging or a device at all.
+
+Both devices feature the same water repellant design, side mounted fingerprint sensors, face unlock, 5,000 mAh battery capacities, and hybrid micro SD card slots. They both also launch with Android 13 out of the box with MyUX onboard to tweak the system a little for the usual Motorola tricks. 
 
 ### Moto G23 and G13
+
+![Motorola Moto G23 and G13 devices](/images/moto-g23.jpg)
