@@ -3,11 +3,14 @@ layout: post
 title: "New Budget Friendly Moto Phones for 2023"
 date: 2023-01-24
 ---
+
+![Motorola logo on a red background](/images/moto.jpg)
+
 Motorola are the king of budget friendly mobile handsets, especially here in the United States. While their specs aren't appealing to the tech savvy, their affordable price and flagship-like design sure attract plenty of price-conciious buyers. Here's a bit of a dive into their newly released G73, G53, G23, G13 and E13 mobile handsets.
 
 ### Moto G73 and G53
 
-The higher end brothers of the G series, this years GX3, devices feature a host of similar specs and follow similar designs to each other. They definitely shake up a few specs compared to last generations GX2 devices, replacing trade-offs with different features compared to last year, but I think they made some good choices this year on exactly where they should compromise. For example, providing great processors this year will bring much needed performance improvements in every aspect of the device. It even brings 5G support to the entire G line-up. 
+The higher end brothers of the G series, this years GX3, devices feature a host of similar specs and follow similar designs to each other. They definitely shake up a few specs compared to last generations GX2 devices, replacing trade-offs with different features compared to last year, however they chose a lot of areas to trade-off. While the processors are newert his year, they are only small upgrades to their previous generations. However, they are more capable than the generation prior and bring sub-6GHz 5G to the higher end G-line.
 
 | Specification | Moto G73                | Moto G53                        |
 |---------------|-------------------------|---------------------------------|
@@ -23,3 +26,6 @@ The higher end brothers of the G series, this years GX3, devices feature a host 
 | Software      | Android 13 MyUX         | Android 13 MyUX                 |
 | Extras        | MicroSD slot            | MicroSD slot                    |
 | Pricing       | €300                    | €250 (4/128 model)              |
+
+The biggest downgrade with the G73 especially has to be the LCD downgrade from the P-OLED display of the G72. OLED displays have much better colour reproduction and are generally better displays, however it is understandable since LCD's are both cheaper and battery efficient. Besides the display, the G72 had a more versatile triple camera system which was exchanged for a higher quality main lens and a similar (if not the same) ultrawide lens. I think this will be welcome upgrade despite the loss of the depth sensor adn the higher resolution main lens last gen because Motorola tends to have weak camera systems, however many manufacturers have seen success with 50 MP sensors.
+
