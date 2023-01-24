@@ -10,6 +10,8 @@ Motorola are the king of budget friendly mobile handsets, especially here in the
 
 ### Moto G73 and G53
 
+![Motorola Moto G73 and Moto G53 alongside each other](/images/moto-g53.jpg)
+
 The higher end brothers of the G series, this years GX3, devices feature a host of similar specs and follow similar designs to each other. They definitely shake up a few specs compared to last generations GX2 devices, replacing trade-offs with different features compared to last year, however they chose a lot of areas to trade-off. While the processors are newert his year, they are only small upgrades to their previous generations. However, they are more capable than the generation prior and bring sub-6GHz 5G to the higher end G-line.
 
 | Specification | Moto G73                | Moto G53                        |
@@ -27,5 +29,8 @@ The higher end brothers of the G series, this years GX3, devices feature a host 
 | Extras        | MicroSD slot            | MicroSD slot                    |
 | Pricing       | €300                    | €250 (4/128 model)              |
 
-The biggest downgrade with the G73 especially has to be the LCD downgrade from the P-OLED display of the G72. OLED displays have much better colour reproduction and are generally better displays, however it is understandable since LCD's are both cheaper and battery efficient. Besides the display, the G72 had a more versatile triple camera system which was exchanged for a higher quality main lens and a similar (if not the same) ultrawide lens. I think this will be welcome upgrade despite the loss of the depth sensor adn the higher resolution main lens last gen because Motorola tends to have weak camera systems, however many manufacturers have seen success with 50 MP sensors.
+The biggest downgrade with the G73 especially has to be the LCD downgrade from the P-OLED display of the G72. OLED displays have much better colour reproduction and are generally better displays, however it is understandable since LCD's are both cheaper and battery efficient. Besides the display, the G72 had a more versatile triple camera system which was exchanged for a higher quality main lens and a similar (if not the same) ultrawide lens. I think this will be welcome upgrade despite the loss of the depth sensor and the higher resolution main lens because Motorola tend to have weak camera systems, however many manufacturers have seen success with 50 MP sensors.
 
+The G53 sees a much more significant display downgrade, going from a 6.6" FHD 90 Hz AMOLED panel to a slightly smaller 120 Hz LCD HD panel. I persoanlly would prefer a 60 Hz standard refresh rate with a FHD resolution than this configuration Motorola have conjured. I guess someone somewhere values speed and fluidity over quality in low-end devices? Besides that, the G53 reduces fast charging from Moto's 30W TurboCharge tech to just 10W on the international model and 18W on the Latin American model. Neither models have U.S. availability currently, so we'll see if we get faster charging or a device at all. 
+
+### Moto G23 and G13
