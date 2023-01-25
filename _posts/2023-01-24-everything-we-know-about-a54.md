@@ -21,7 +21,7 @@ You can see a side-by-side design comparison below of the Galaxy S23 and the Gal
 
 Based on the image, you can just about tell that the sides of the A54 are plastic, which becomes more obvious when you see the premium side rails of the S23. They both seem very similar in design to the iPhone XR and some of the newer flat-edged Apple devices, only they both feature more than 1 or 2 lenses. Which, speaking of lenses, the S23's lenses seem a bit larger and protected by a more premium material again. Whereas the blue colour overlaps the top outline of the lens, the metal only reaches the top part of the S23 lens before black overtakes it.
 
-Overall, I like the design, but it's nothing revolutionary. Pretty much the same sentiment as the S22 Ultra, where the design is nice and all but it's nothing special. Pretty boring honestly, and a very safe design from Samsung. The front panel is where it gets the most boring though, of course. The same central hole-punch camera and almost perfectly equal bezels besides the slightly larger chin. They have reduced the amount of chin added by pushing it to the sides and top of the device to almost equalize the bezel design. 
+Overall, I like the design, but it's nothing revolutionary. Pretty much the same sentiment as the S22 Ultra, where the design is nice and all but it's nothing special. Pretty boring honestly, and a very safe design from Samsung. The front panel is where it gets the most boring though, of course. The same central hole-punch camera and almost perfectly equal bezels besides the slightly larger chin. They have reduced the amount of chin added by pushing it to the sides and top of the device to almost equalize the bezel design. The device should feature the same IP67 resistance rating from last year too. 
 
 #### Processing Power
 
@@ -39,8 +39,14 @@ Other than the size of the display, everything else about it will be the same FH
 
 #### Battery & Charging
 
-Like always, the charger will not ship with the device to get the juicy 25W fast charging speeds for your undoubtedly large 5,100 mAh battery. It is still such a shame that Samsung can't at least provide faster charging speeds for a device with such a large bettery, saving 45W top ups for the Galaxy S23+ and Galaxy S23 Ultra.  
+Like always, the charger will not ship with the device to get the juicy 25W fast charging speeds for your undoubtedly large 5,100 mAh battery. It is still such a shame that Samsung can't at least provide faster charging speeds for a device with such a large bettery, saving 45W top ups for the Galaxy S23+ and Galaxy S23 Ultra.
 
-[foo]:https://www.google.com "Google Search"
+#### Camera System
 
-[foo]
+The A53 went all in on cameras, consisting four snappers on the rear and a single shooter on the front. This time around, Samsung are getting rid of the depth sensor and reducing the main lens from 64MP to 50MP. I reckon the rumoured 50MP sensor could be the ISOCELL GN2 sensor which Samsung recently unveiled which could be the reason for the removal of the additional depth sensor. However, this is purely just a guess, so take this with a grain of salt.
+
+The A54 does leave both the 32MP selfie cam and the 8MP ultrawide lens alone, most likely furthering its optimization for better shots. The addition of optical image satbilization (OIS) on the main 50MP lens will definitely help users with the less versatile system to allow more stable video. There's no word on if the device will gain the ability to record in 4K60 yet, however 4K30 is still pretty good and will do the job for most, if not all, users. 
+
+#### Pricing & Availability
+
+There's no set-in-stone word on pricing and availability, however you can definitely expect it in all of the same countries as the A53 5G. We're hoping for the same $449 price as last year, however we shall see when the device is unveiled either at the February 1st launch event or in a press release later in February or March. Of course, the device will launch with Android 13 paired with OneUI 5.
