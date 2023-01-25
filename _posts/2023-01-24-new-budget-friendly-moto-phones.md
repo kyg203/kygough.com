@@ -6,6 +6,8 @@ date: 2023-01-24
 
 ![Motorola logo on a red background](/images/moto.jpg)
 
+`UPDATE 1031 EST: Added information about the Moto Secure application that launched alongside the Moto G73 and Moto G53 and is also available on the ThinkPhone.`
+
 Motorola are the king of budget friendly mobile handsets, especially here in the United States. While their specs aren't appealing to the tech savvy, their affordable price and flagship-like design sure attract plenty of price-concious buyers. Here's a bit of a dive into their newly released G73, G53, G23, G13 and E13 mobile handsets.
 
 ### Moto G73 and G53
@@ -87,8 +89,6 @@ Last, but definitely not least, the Motorola Moto E13. This device is at the bot
 This handset really shows just how budget it is through the use of the Unisoc processor and the memory configuration, however this will definitely be fine considering the target market. This phone will be for anyone that just needs it to work, just something to get by with for calling and texting, maybe some basic web surfing. The processor really won't handle much else.
 
 Alongside the launch of these five (5) handsets, Motorola has also announced the Moto Secure App for the ThinkPhone and Moto G53 and Moto G73. The Moto Secure app is basically your privacy and security dashboard on Pixel phones, however it does have a dash of Motorola too. On top of the privacy indicators and the 24-hour sensor log, you also gain the ability to create a "Secure Folder" on the device, allowing you to hide files and applications and you can enable a PIN Scramble feature for the devices lockscreen. There are a few more addiitons to the app too which help add peace of mind.
-
-
 
 
 
