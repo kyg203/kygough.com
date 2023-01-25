@@ -40,3 +40,6 @@ Other than the size of the display, everything else about it will be the same FH
 #### Battery & Charging
 
 Like always, the charger will not ship with the device to get the juicy 25W fast charging speeds for your undoubtedly large 5,100 mAh battery. It is still such a shame that Samsung can't at least provide faster charging speeds for a device with such a large bettery, saving 45W top ups for the Galaxy S23+ and Galaxy S23 Ultra.  
+[foo]: /https://www.google.com "Google Search"
+
+[foo]
