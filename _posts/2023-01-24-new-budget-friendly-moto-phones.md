@@ -90,6 +90,8 @@ This handset really shows just how budget it is through the use of the Unisoc pr
 
 Alongside the launch of these five (5) handsets, Motorola has also announced the Moto Secure App for the ThinkPhone and Moto G53 and Moto G73. The Moto Secure app is basically your privacy and security dashboard on Pixel phones, however it does have a dash of Motorola too. On top of the privacy indicators and the 24-hour sensor log, you also gain the ability to create a "Secure Folder" on the device, allowing you to hide files and applications and you can enable a PIN Scramble feature for the devices lockscreen. There are a few more addiitons to the app too which help add peace of mind. Motorola has stated that the app will become available to more Android 13 based Moto phones in the coming months.
 
+![Three screenshots of the Moto Secure App in action on a Motorola phone. These screeshots show the general layout of the app including some of its features, including disguise mode and secure folder.](/images/moto-secure-app.webp)
+
 
 
 
