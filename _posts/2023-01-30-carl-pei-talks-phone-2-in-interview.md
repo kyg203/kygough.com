@@ -4,7 +4,9 @@ title: Carl Pei Talks Phone (2) in Exclusive Interview with Inverse
 date: 2023-01-30
 ---
 {% highlight ruby %}
-In an exclusive interview with INVERSE, Carl Pei, founder of Nothing and co-founder of OnePlus, talks a bit about the Nothing Phone (2) and furthering their reach into the U.S. market.
+In an exclusive interview with INVERSE, Carl Pei, founder of Nothing and co-founder 
+of OnePlus, talks a bit about the Nothing Phone (2) and furthering their reach into 
+the U.S. market.
 {% endhighlight %}
 
 ![Nothing Phone (1) in black](/images/nothing-phone-1.webp)
