@@ -4,7 +4,9 @@ title: Carl Pei Talks Phone (2) in Exclusive Interview with Inverse
 date: 2023-01-30
 ---
 
-`In an exclusive interview with ![INVERSE](https://www.inverse.com/gear/nothing-phone-2-us-2023-release-carl-pei-interview), Carl Pei talks a bit about the Phone (2) and furthering their reach into the U.S. market.`
+`In an exclusive interview with INVERSE, Carl Pei talks a bit about the Phone (2) and furthering their reach into the U.S. market.`
+
+![INVERSE](https://www.inverse.com/gear/nothing-phone-2-us-2023-release-carl-pei-interview) - Original Interview
 
 ![Nothing Phone (1) in black with the Glyph Interface glowing.](/images/nothing-phone-1.webp)
 
