@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple Event 2023: What To Expect
+title: Apple Event 2023 - What To Expect
 ---
 
 The next Apple launch event is literally two days away, so all the leaks and rumours are in full swing in the same last-minute fashion. I think we all already know to expect the next generation iPhone's along with new software releases, however we may see some more iterative updates too with the possibility of a new AirPdos case. We've compiled all of the latest information about the upcoming gadgets and software to make it easier to learn more.
