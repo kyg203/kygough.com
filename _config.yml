@@ -8,7 +8,7 @@ twitter_username: ky_gough
 github_username:  kyg203
 
 # Build settings
-theme: minima
+theme: garth
 plugins:
   - jekyll-feed
   
