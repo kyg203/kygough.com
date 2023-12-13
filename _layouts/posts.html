@@ -11,10 +11,8 @@ layout: default
    <link href="media/tab.png" rel="icon">
    <meta name="viewport" content="width=device-width, initial-scale=1.0">
   </head>
-	 
-{{ content }}
 
-	    <div id="social-bar">
+<div id="social-bar">
     <div class="social-container">
      <a href="https://www.instagram.com/ky__gough" target="_blank"><img src="media/social/instagram.webp" id="icon" /></a>
      <a href="https://www.twitter.com/ky_gough" target="_blank"><img src="media/social/twitter.png" id="icon" /></a>
@@ -36,6 +34,8 @@ layout: default
     <a href="contact.html">CONTACT</a>
    </div>
    <div class="hero-img">
+	 
+{{ content }}
 <ul class="myposts">
 {% for post in site.posts %}
     <li><a href="{{ post.url }}">{{ post.title}}</a>
