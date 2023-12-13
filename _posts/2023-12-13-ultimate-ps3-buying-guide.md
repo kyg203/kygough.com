@@ -2,9 +2,7 @@
 layout: post
 title: The Ultimate Guide to Choosing a PS3
 ---
-# The Ultimate Guide to Choosing a PS3
-
-Dec. 11th, 2023
+# The Ultimate PS3 Buying Guide
 
 You never really know how many models of PS3 there are until you actually look it up and check for yourself, which quickly becomes overwhelming considering that each have their own respective features and functionalities. While some support hardware level PS2 emulation and feature 4 USB ports, others run cooler, have more reliable motherboards, are way smaller, but only support PS3 and PS1 games. Some support completely custom firmware from 3rd party developers while others only support hybrid firmware and their respective original firmware. Picking the right model for you is just like picking a phone: each model plays to specific needs and depends on the needs of the end user. Quickly make a list of things you want about a PS3 and come back to help you analyze the best model for your needs so you can get back to feeling the early 2000's nostalgia.
 
